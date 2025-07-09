@@ -1,12 +1,25 @@
-# React + Vite
+Lexisg-frontend-intern-test/Screenshots
+/Screenshot (3652).png
+Judgment PDF Modal
+Answer & Citation Display
+# ⚖️ Lexi Legal Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lexi Legal Assistant is a React + Vite-based chat interface that answers legal questions and shows relevant citations from judgment PDFs. It mimics a ChatGPT-style experience with typewriter effects and dynamic UI, built for clarity and simplicity.
 
-Currently, two official plugins are available:
+---
+## 🚀 Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Clone the Repository
+git clone https://github.com/yourusername/lexi-assistant.git,
+cd lexi-assistant
 
-## Expanding the ESLint configuration
+### 2. Install Dependency
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 3. Start the App
+npm run dev
+
+###  Screenshots
+ Question Input View
+ ![Question UI](./Screenshots/Screenshot(3652).png)
+
